@@ -444,13 +444,13 @@ footer strong {
   }
 
   .hero {
-    min-height: 603px;
+    min-height: 690px;
     align-items: flex-end;
     padding-bottom: 40px;
     text-align: center;
     background:
-      linear-gradient(180deg, rgba(0, 12, 20, .08) 0%, rgba(0, 12, 20, .9) 63%, #000c14 100%),
-      url("assets/hero-generated.png") center top / cover no-repeat;
+      linear-gradient(180deg, rgba(0, 12, 20, .02) 0%, rgba(0, 12, 20, .2) 44%, rgba(0, 12, 20, .94) 70%, #000c14 100%),
+      url("assets/hero-person-mobile.png") center top / cover no-repeat;
   }
 
   .inner {
